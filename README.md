@@ -77,14 +77,26 @@ Pertama membuat file `lab1_tag_dasar.html` berisi struktur dasar HTML.
 Menambahkan tag `<p>` untuk membuat paragraf.
 
 ```html
-<!-- Paragraf pertama -->
-<p align="center">Kami sedang belajar HTML dasar di Universitas Pelita Bangsa.</p>
+    <!-- Paragraf Pertama -->
+    <!-- Ini adalah paragraf pertama -->
+    <p alig="center">
+        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML
+    </p>
 
-<!-- Paragraf kedua -->
-<p align="right">Paragraf ini dibuat menggunakan tag dasar HTML.</p>
+    <!-- Ini adalah paragraf kedua -->
+    <p alig="right">
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat 
+        yang saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar HTML.<br>
+        Contoh penggunaan <u>line break</u> dengan tag <code>&lt;br&gt;</code>.
+    </p>
 ```
 
-📸 *Screenshot hasil paragraf di browser*
+📸 <img width="1919" height="176" alt="image" src="https://github.com/user-attachments/assets/cbec2846-ac75-4f9c-83ac-46c51c13420e" />
+
 
 ---
 
