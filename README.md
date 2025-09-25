@@ -97,7 +97,8 @@ Menambahkan heading `<h1>` dan `<h2>` sebelum paragraf.
 <h2>Paragraf pada HTML</h2>
 ```
 
-📸 *Screenshot tampilan heading*
+📸 <img width="3034" height="824" alt="code2" src="https://github.com/user-attachments/assets/b60d47ca-8950-425e-9eac-f173bdfba89f" />
+
 
 ---
 
