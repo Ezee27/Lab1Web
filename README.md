@@ -77,8 +77,6 @@ Pertama membuat file `lab1_tag_dasar.html` berisi struktur dasar HTML.
 Menambahkan tag `<p>` untuk membuat paragraf.
 
 ```html
-    <!-- Paragraf Pertama -->
-    <!-- Ini adalah paragraf pertama -->
     <p alig="center">
         Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
@@ -86,6 +84,10 @@ Menambahkan tag `<p>` untuk membuat paragraf.
         dalam rangka mengenal tag-tag dasar HTML
     </p>
 
+    <!-- Judul Paragraf Kedua -->
+    <h2>Paragraf pada HTML</h2>
+
+    <!-- Paragraf Kedua -->
     <!-- Ini adalah paragraf kedua -->
     <p alig="right">
         Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat 
