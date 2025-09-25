@@ -105,7 +105,8 @@ Menambahkan navigasi link menggunakan tag `<a>` dengan berbagai target.
 </nav>
 ```
 
-📸 *Screenshot link di browser*
+📸 <img width="318" height="99" alt="image" src="https://github.com/user-attachments/assets/698d620b-d762-4888-81b6-caa2133257c5" />
+
 
 ---
 
@@ -138,5 +139,3 @@ Dalam praktikum ini saya belajar:
 4. Push ke repository GitHub **Lab1Web**.
 
 ---
-
-Mau saya tambahkan juga **contoh screenshot dummy (gambar placeholder)** ke README supaya kamu tinggal ganti dengan hasil praktikummu?
