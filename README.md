@@ -196,6 +196,9 @@ Menambahkan navigasi link menggunakan tag `<a>` dengan berbagai target.
 
 ### **Jawaban Pertanyaan Praktikum**
 
+<img width="760" height="258" alt="image" src="https://github.com/user-attachments/assets/8660574b-7c5d-4913-9843-9ee18fd95c32" />
+
+
 1. Jika ada salah penulisan tag, HTML tetap ditampilkan tetapi hasilnya bisa berantakan atau tidak sesuai (tidak error fatal).
 2. `<p>` membuat paragraf baru dengan spasi otomatis, sedangkan `<br>` hanya pindah baris.
 3. `alt` menampilkan teks pengganti gambar (aksesibilitas), `title` menampilkan tooltip saat kursor diarahkan.
