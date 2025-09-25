@@ -84,10 +84,11 @@ Menggunakan tag `<img>` dengan atribut `src`, `title`, dan `alt`.
 
 ```html
 <h3>Menambahkan Gambar</h3>
-<img src="Logo_UPB.png" width="200" alt="Logo Universitas Pelita Bangsa" title="Logo UPB">
+<img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-768x584.png" width="200" alt="Logo UPB" title="Logo Universitas Pelita Bangsa">
 ```
 
-📸 *Screenshot gambar yang tampil di browser*
+📸 <img width="288" height="224" alt="image" src="https://github.com/user-attachments/assets/2dfa3283-cf3c-47e8-b494-8c92e0a989fa" />
+
 
 ---
 
