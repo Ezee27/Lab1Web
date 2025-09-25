@@ -83,7 +83,7 @@ Menggunakan tag `<b>`, `<i>`, `<sub>`, `<sup>` untuk memformat teks.
 Menggunakan tag `<img>` dengan atribut `src`, `title`, dan `alt`.
 
 ```html
-<h3>Menambahkan Gambar</h3>
+<h3>Universitas Pelita Bangsa</h3>
 <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-768x584.png" width="200" alt="Logo UPB" title="Logo Universitas Pelita Bangsa">
 ```
 
