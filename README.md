@@ -1,5 +1,3 @@
-Oke 👍, saya bikinkan draft **README.md** untuk tugas kamu. Nanti kamu bisa tambahkan **screenshot hasil praktikum** langsung ke dalam file README.
-
 ---
 
 ## 📘 README.md — Praktikum 1 HTML Dasar
