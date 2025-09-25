@@ -6,10 +6,10 @@ Oke 👍, saya bikinkan draft **README.md** untuk tugas kamu. Nanti kamu bisa ta
 
 ### **Identitas**
 
-* Mata Kuliah : Pemrograman Web
+* Mata Kuliah : Pemograman Web 1
 * Praktikum : 1 (HTML Dasar)
-* Nama : *[Isi Nama Kamu]*
-* NIM : *[Isi NIM Kamu]*
+* Nama : *Zaenal Maulana Rizki*
+* NIM : *312410332*
 * Kelas : *[Isi Kelas Kamu]*
 
 ---
