@@ -144,7 +144,8 @@ Menggunakan tag `<b>`, `<i>`, `<sub>`, `<sup>` untuk memformat teks.
     </p>
 ```
 
-📸 *Screenshot hasil format teks*
+📸 <img width="1919" height="240" alt="image" src="https://github.com/user-attachments/assets/e8ca1033-c41a-4248-9893-d23e88c9ecd2" />
+
 
 ---
 
