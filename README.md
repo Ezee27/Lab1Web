@@ -4,7 +4,7 @@ Oke 👍, saya bikinkan draft **README.md** untuk tugas kamu. Nanti kamu bisa ta
 
 ## 📘 README.md — Praktikum 1 HTML Dasar
 
-### **Identitas**
+### ****
 
 * Mata Kuliah : Pemograman Web 1
 * Praktikum 1 : HTML Dasar*
