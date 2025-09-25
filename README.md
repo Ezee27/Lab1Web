@@ -32,8 +32,7 @@ Pertama membuat file `lab1_tag_dasar.html` berisi struktur dasar HTML.
 </html>
 ```
 
-📸 *<img width="3466" height="2192" alt="code" src="https://github.com/user-attachments/assets/e13821ac-68d5-4bf7-90d0-fad4487bc4c8" />
-*
+📸 <img width="3466" height="2192" alt="code" src="https://github.com/user-attachments/assets/e13821ac-68d5-4bf7-90d0-fad4487bc4c8" />
 
 ---
 
