@@ -1,11 +1,11 @@
 ## 📘 README.md — Praktikum 1 HTML Dasar
 
-* Nama : *Zaenal Maulana Rizki*
-* NIM : *312410332*
-* Kelas : *TI.24.A.A*
+* Nama : Zaenal Maulana Rizki
+* NIM : 312410332
+* Kelas : TI.24.A.4
 * Mata Kuliah : 8Pemograman Web 1
-* Praktikum 1 : *HTML Dasar*
-* Dosen : *Agung Nugroho, S.Kom., M.Kom.*
+* Praktikum 1 : HTML Dasar*
+* Dosen : Agung Nugroho, S.Kom., M.Kom.
 
 ---
 
