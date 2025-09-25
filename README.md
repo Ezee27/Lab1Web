@@ -19,10 +19,50 @@ Pertama membuat file `lab1_tag_dasar.html` berisi struktur dasar HTML.
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Mahasiswa UPB">
+    <meta name="keywords" content="HTML, Pemrograman Web, UPB">
+    <meta name="description" content="Praktikum HTML Dasar">
     <title>Praktikum 1 - HTML Dasar</title>
 </head>
 <body>
-    <!-- Isi dokumen HTML -->
+
+    <!-- Link Navigasi -->
+    <nav>
+        <a href="lab1_tag_dasar.html" target="_self">Dasar HTML</a> |
+        <a href="lab1_halaman2.html" target="_self">Halaman 2</a> |
+        <a href="http://www.google.com" target="_blank">Google</a>
+    </nav>
+    <hr>
+
+    <!-- Judul Utama -->
+    <h1>Belajar Dasar HTML</h1>
+
+    <!-- Paragraf Pertama -->
+    <!-- Ini adalah paragraf pertama -->
+    <p alig="center">
+        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML
+    </p>
+
+    <!-- Judul Paragraf Kedua -->
+    <h2>Paragraf pada HTML</h2>
+
+    <!-- Paragraf Kedua -->
+    <!-- Ini adalah paragraf kedua -->
+    <p alig="right">
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat 
+        yang saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar HTML.<br>
+        Contoh penggunaan <u>line break</u> dengan tag <code>&lt;br&gt;</code>.
+    </p>
+
+    <!-- Sub Judul Gambar -->
+    <h3>Universitas Pelita Bangsa</h3>
+    <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-768x584.png" width="200" alt="Logo UPB" title="Logo Universitas Pelita Bangsa">
+
 </body>
 </html>
 ```
