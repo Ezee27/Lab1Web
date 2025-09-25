@@ -1,0 +1,139 @@
+Oke 👍, saya bikinkan draft **README.md** untuk tugas kamu. Nanti kamu bisa tambahkan **screenshot hasil praktikum** langsung ke dalam file README.
+
+---
+
+## 📘 README.md — Praktikum 1 HTML Dasar
+
+### **Identitas**
+
+* Mata Kuliah : Pemrograman Web
+* Praktikum : 1 (HTML Dasar)
+* Nama : *[Isi Nama Kamu]*
+* NIM : *[Isi NIM Kamu]*
+* Kelas : *[Isi Kelas Kamu]*
+
+---
+
+### **Langkah-langkah Praktikum**
+
+#### 1. Membuat Struktur Dasar HTML
+
+Pertama membuat file `lab1_tag_dasar.html` berisi struktur dasar HTML.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Praktikum 1 - HTML Dasar</title>
+</head>
+<body>
+    <!-- Isi dokumen HTML -->
+</body>
+</html>
+```
+
+📸 *Screenshot tampilan struktur dasar HTML di VSCode*
+
+---
+
+#### 2. Membuat Paragraf
+
+Menambahkan tag `<p>` untuk membuat paragraf.
+
+```html
+<!-- Paragraf pertama -->
+<p align="center">Kami sedang belajar HTML dasar di Universitas Pelita Bangsa.</p>
+
+<!-- Paragraf kedua -->
+<p align="right">Paragraf ini dibuat menggunakan tag dasar HTML.</p>
+```
+
+📸 *Screenshot hasil paragraf di browser*
+
+---
+
+#### 3. Menambahkan Judul (Heading)
+
+Menambahkan heading `<h1>` dan `<h2>` sebelum paragraf.
+
+```html
+<h1>Belajar Dasar HTML</h1>
+<h2>Paragraf pada HTML</h2>
+```
+
+📸 *Screenshot tampilan heading*
+
+---
+
+#### 4. Memformat Teks
+
+Menggunakan tag `<b>`, `<i>`, `<sub>`, `<sup>` untuk memformat teks.
+
+```html
+<p>Teks <b>tebal</b>, <i>miring</i>, H<sub>2</sub>O, dan E=mc<sup>2</sup></p>
+```
+
+📸 *Screenshot hasil format teks*
+
+---
+
+#### 5. Menyisipkan Gambar
+
+Menggunakan tag `<img>` dengan atribut `src`, `title`, dan `alt`.
+
+```html
+<h3>Menambahkan Gambar</h3>
+<img src="Logo_UPB.png" width="200" alt="Logo Universitas Pelita Bangsa" title="Logo UPB">
+```
+
+📸 *Screenshot gambar yang tampil di browser*
+
+---
+
+#### 6. Menambahkan Hyperlink
+
+Menambahkan navigasi link menggunakan tag `<a>` dengan berbagai target.
+
+```html
+<nav>
+    <a href="lab1_tag_dasar.html" target="_self">Dasar HTML</a> |
+    <a href="lab1_halaman2.html" target="_blank">Halaman 2</a> |
+    <a href="http://www.google.com" target="_top">Google</a>
+</nav>
+```
+
+📸 *Screenshot link di browser*
+
+---
+
+### **Jawaban Pertanyaan Praktikum**
+
+1. Jika ada salah penulisan tag, HTML tetap ditampilkan tetapi hasilnya bisa berantakan atau tidak sesuai (tidak error fatal).
+2. `<p>` membuat paragraf baru dengan spasi otomatis, sedangkan `<br>` hanya pindah baris.
+3. `alt` menampilkan teks pengganti gambar (aksesibilitas), `title` menampilkan tooltip saat kursor diarahkan.
+4. Untuk menjaga proporsional, cukup isi salah satu (width atau height), jangan keduanya dengan nilai sembarangan.
+5. `target="_blank"` buka tab baru, `_self` di halaman sama, `_top` di jendela penuh, `_parent` di frame induk.
+
+---
+
+### **Kesimpulan**
+
+Dalam praktikum ini saya belajar:
+
+* Struktur dasar HTML
+* Tag heading, paragraf, pemformatan teks
+* Penyisipan gambar
+* Penggunaan hyperlink dengan atribut `target`
+
+---
+
+👉 Setelah README selesai, tinggal:
+
+1. Tambahkan **screenshot hasil percobaan** di setiap langkah.
+2. Simpan README.md di root project.
+3. `git add . && git commit -m "Praktikum 1 HTML Dasar"`
+4. Push ke repository GitHub **Lab1Web**.
+
+---
+
+Mau saya tambahkan juga **contoh screenshot dummy (gambar placeholder)** ke README supaya kamu tinggal ganti dengan hasil praktikummu?
