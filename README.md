@@ -4,7 +4,7 @@
 * NIM : 312410332
 * Kelas : TI.24.A.4
 * Mata Kuliah : 8Pemograman Web 1
-* Praktikum 1 : HTML Dasar*
+* Praktikum 1 : HTML Dasar
 * Dosen : Agung Nugroho, S.Kom., M.Kom.
 
 ---
