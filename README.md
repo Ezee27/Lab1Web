@@ -9,6 +9,10 @@
 
 ---
 
+## **Tugas nya**
+<img width="778" height="244" alt="image" src="https://github.com/user-attachments/assets/12f728fa-8757-4347-a6e9-46c2ce922c17" />
+
+
 ### **Langkah-langkah Praktikum**
 
 #### 1. Membuat Struktur Dasar HTML
