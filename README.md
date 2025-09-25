@@ -1,5 +1,3 @@
----
-
 ## 📘 README.md — Praktikum 1 HTML Dasar
 
 * Nama : *Zaenal Maulana Rizki*
