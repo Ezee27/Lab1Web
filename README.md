@@ -119,7 +119,29 @@ Menambahkan heading `<h1>` dan `<h2>` sebelum paragraf.
 Menggunakan tag `<b>`, `<i>`, `<sub>`, `<sup>` untuk memformat teks.
 
 ```html
-<p>Teks <b>tebal</b>, <i>miring</i>, H<sub>2</sub>O, dan E=mc<sup>2</sup></p>
+<!-- Judul Utama -->
+    <h1>Belajar Dasar HTML</h1>
+
+    <!-- Paragraf Pertama -->
+    <!-- Ini adalah paragraf pertama -->
+    <p alig="center">
+        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML
+    </p>
+
+    <!-- Judul Paragraf Kedua -->
+    <h2>Paragraf pada HTML</h2>
+
+    <!-- Paragraf Kedua -->
+    <!-- Ini adalah paragraf kedua -->
+    <p alig="right">
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat 
+        yang saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar HTML.<br>
+        Contoh penggunaan <u>line break</u> dengan tag <code>&lt;br&gt;</code>.
+    </p>
 ```
 
 📸 *Screenshot hasil format teks*
