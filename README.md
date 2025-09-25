@@ -165,12 +165,3 @@ Dalam praktikum ini saya belajar:
 * Penggunaan hyperlink dengan atribut `target`
 
 ---
-
-👉 Setelah README selesai, tinggal:
-
-1. Tambahkan **screenshot hasil percobaan** di setiap langkah.
-2. Simpan README.md di root project.
-3. `git add . && git commit -m "Praktikum 1 HTML Dasar"`
-4. Push ke repository GitHub **Lab1Web**.
-
----
