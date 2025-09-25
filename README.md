@@ -4,8 +4,6 @@ Oke 👍, saya bikinkan draft **README.md** untuk tugas kamu. Nanti kamu bisa ta
 
 ## 📘 README.md — Praktikum 1 HTML Dasar
 
-### ****
-
 * Nama : *Zaenal Maulana Rizki*
 * NIM : *312410332*
 * Kelas : *TI.24.A.A*
